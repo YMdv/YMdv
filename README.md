@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yurimancini&label=Profile%20views&color=0e75b6&style=flat" alt="yurimancini" /> </p>
 
-- 🔭 Atualmente trabalhando na [ClubPetro](https://www.clubpetro.com/) Back-End
+- 🔭 Atualmente trabalhando na [ClubPetro](https://www.clubpetro.com/) como Back-End
 
 - 🌱 Aprendendo atualmente sobre: **TypeScript - Node.js - Javascript - (NestJs)**
 
