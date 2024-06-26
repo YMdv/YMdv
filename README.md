@@ -1,3 +1,4 @@
+
 <div align="center">
 <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" align="center" style="width: 100%" />
 </div>  
@@ -10,7 +11,7 @@
 
 - 🔭 Desenvolvimento Web com foco em **Back-End**
 
-- 🔭 Back-End em 2 aplicativos publicados, Glocal e BeOn
+- 🔭 Back-End em 2 aplicativos publicados, [Glocal](https://play.google.com/store/apps/details?id=com.glocalaudioguide.glocal_app) e [BeOn](https://play.google.com/store/apps/details?id=br.com.beon.app.production)
 
 - 🌱 Aprendendo atualmente sobre: **GoLang - Rust**
 
