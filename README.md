@@ -82,19 +82,11 @@
 
 <div align="center">
 
-### 📈 GitHub Stats & Streak
-  
-<img src="https://github-readme-stats.vercel.app/api?username=yurimancini&show_icons=true&theme=dark&include_all_commits=true&count_private=true" width="48%" alt="Estatísticas do GitHub" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yurimancini&theme=dark" width="48%" alt="Sequência de commits" />
+<img src="https://github-readme-stats.vercel.app/api?username=yurimancini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" />
 
-### 📊 GitHub Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yurimancini&theme=github-compact&hide_border=true&area=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yurimancini&theme=transparent&hide_border=true" alt="Sequência de commits" />
 
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimancini&layout=compact&theme=dark&include_all_commits=true&count_private=true&langs_count=8" width="48%" alt="Linguagens mais usadas" />
-
-### 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=yurimancini&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimancini&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=10&hide_border=true" alt="Linguagens mais usadas" />
 
 </div>
 
