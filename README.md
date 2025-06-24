@@ -4,8 +4,8 @@
 </div>  
   
 
-<h1 align="center">Olá 👋, Eu sou Yuri Mancini</h1>
-<h3 align="center">Um desenvolvedor backend apaixonado por carros antigos.🚘</h3>
+<h1 align="center">Hi 👋, I'm Yuri Mancini</h1>
+<h3 align="center">A passionate backend developer who loves classic cars.🚘</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=yurimancini&label=Profile%20views&color=0e75b6&style=flat" alt="yurimancini" /> 
@@ -13,21 +13,21 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About me
 
-- 🔭 Desenvolvimento Web com foco em **Back-End**
+- 🔭 Web Development focused on **Back-End**
 
-- 🔭 Back-End em 2 aplicativos publicados, [Glocal](https://play.google.com/store/apps/details?id=com.glocalaudioguide.glocal_app) e [BeOn](https://play.google.com/store/apps/details?id=br.com.beon.app.production)
+- 🔭 Backend developer for 2 published apps: [Glocal](https://play.google.com/store/apps/details?id=com.glocalaudioguide.glocal_app) and [BeOn](https://play.google.com/store/apps/details?id=br.com.beon.app.production)
 
-- 🌱 Aprendendo atualmente sobre: **GoLang - Rust**
+- 🌱 Currently learning: **GoLang - Rust**
 
-- ❓ Pergunte-me sobre: **Manutenção em computadores e Redes**
+- ❓ Ask me about: **Computer maintenance and Networks**
 
-- 📫 Entre em contato: **yurimancinidevs@gmail.com**
+- 📫 Contact me: **yurimancinidevs@gmail.com**
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Connect with me
 
 <p align="center">
 <a href="https://dev.to/ymdv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ymdv" height="30" width="40" /></a>
@@ -39,9 +39,9 @@
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Technical Skills
 
-### **Linguagens & Frameworks:**
+### **Languages & Frameworks:**
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -51,7 +51,7 @@
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/></a>
 </p>
 
-### **Bancos de Dados:**
+### **Databases:**
 <p align="left">
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
@@ -67,7 +67,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 </p>
 
-### **Ferramentas & Outros:**
+### **Tools & Others:**
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
@@ -75,20 +75,6 @@
 <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yurimancini&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&show=prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yurimancini&theme=transparent&hide_border=true" alt="Sequência de commits" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurimancini&layout=compact&theme=transparent&include_all_commits=true&count_private=true&langs_count=10&hide_border=true" alt="Linguagens mais usadas" />
-
-</div>
 
 
 
